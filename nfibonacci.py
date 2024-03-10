@@ -1,3 +1,7 @@
+"""
+print n number of fibonacci where n is the input number given by user.
+"""
+
 def fibonacci(n):
     fib_array = [0,1]
     for i in range(2, n+1):
