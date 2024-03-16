@@ -1,3 +1,6 @@
+# How to find maximum product of two integers in an array where all elements 
+# are positive.
+
 import numpy as np
 myArray = np.array([1,20,30,44,5,56,57,89,10,31,12,13,14,35,16,27,58,19,21])
 
